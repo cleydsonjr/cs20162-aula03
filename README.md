@@ -2,6 +2,8 @@
 
 Projeto contendo a implementação dos algoritimos propostos na *Aula 3*
 
+[![Quality Gate](https://sonarqube.com/api/badges/gate?key=br.ufg.cs.cleydsonjr:cs20162-aula03)](https://sonarqube.com/dashboard/index?id=br.ufg.cs.cleydsonjr%3Acs20162-aula03)
+
 ## Algoritimos resolvidos:
 
 ## Instruções para execução dos testes:
