@@ -6,6 +6,7 @@ Projeto contendo a implementação dos algoritimos propostos na *Aula 3*
 
 ## Algoritimos resolvidos:
 * Somatório elementar dos primeiros naturais
+* Calculo de PI
 
 ## Instruções para execução dos testes:
 Execução dos testes unitários:
